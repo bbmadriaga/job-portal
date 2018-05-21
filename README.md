@@ -1,15 +1,12 @@
 # Civil Service Job Portal modules
 
-Use this as a a guide for creating your banner slider images:
-- Image should be inserted as a featured image, full size
-- Caption input is on the title field
-- Linked article should be indicated in the content field
+Custom Job Portal of the Civil Service Commission (CSC) to provide information about government jobs open to interested qualified Filipino citizen.
 
 ## Known bugs and requests for enhancements (RFEs)
 For a list of known issues and RFEs, check the [issue tracking system](https://github.com/bbmadriaga/job-portal/issues).
 
 ## Future updates
- - Tabbed Theme Options
+ - Job Publication IDs
 
 ## CHANGE LOGS
 **05/21/2018**
